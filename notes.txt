@@ -1,0 +1,26 @@
+survey competition and/or best practices
+survey - http://www.flickr.com/photos/grand_canyon_nps/7199079454/
+
+x-driven: mechanics vs experience
+driven - http://www.flickr.com/photos/relic/251832110/
+
+x-based: exceptions vs standards - "Kill them all. For the Lord knows them that are His." - Arnaud (or Arnau) Amalric - "Raise them all. For the rescue knows them that are it's."
+exceptions - http://www.flickr.com/photos/two-wrongs/205467442/
+
+Analysis paralysis - limit and clearly distinguish choices
+analysis - http://www.flickr.com/photos/49024304@N00/47244105/
+
+Postman principle - input should resemble output, see also GIGO (garbage in, garbage out)
+postman - http://www.flickr.com/photos/treehouse1977/5898734574/
+
+Ducklings deciept - (sic) don't assume users can/will follow along
+ducklings - http://www.flickr.com/photos/taminator/3561436867/
+
+guess, experiment, gather metrics, iterate
+metrics - http://www.flickr.com/photos/financialaidpodcast/7195300768/in/photostream/
+
+extract tools for reuse
+tools - http://www.flickr.com/photos/bre/552152780/
+
+share freely
+share - http://www.flickr.com/photos/courosa/3708151311/
